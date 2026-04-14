@@ -12,3 +12,5 @@ This software is provided free of charge and "as is", without warranties of any 
 
 ### Issue Reports 
 Please report any issues/bugs of the code in the discussion forum of the repository or contact the corresponding author of the paper. 
+
+### DOI 10.5281/zenodo.19571588
