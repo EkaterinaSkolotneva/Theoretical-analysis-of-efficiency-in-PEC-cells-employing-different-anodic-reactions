@@ -7,7 +7,7 @@ Do not hesitate to contact me for any question (ek.skolotneva@gmail.com)
 
 ### Disclaimer 
 This project is licensed under the PolyForm Noncommercial License 1.0.0.
-Noncommercial use is permitted under the terms of the license. Commercial use is not allowed.
+Noncommercial use is permitted. Commercial use is not allowed.
 
 This software is provided free of charge and "as is", without warranties of any kind. The authors do not guarantee the accuracy, reliability, or suitability of the software or of any simulation results obtained with it.
 
