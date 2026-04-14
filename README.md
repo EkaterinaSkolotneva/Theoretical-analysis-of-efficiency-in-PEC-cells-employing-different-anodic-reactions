@@ -6,9 +6,8 @@ There is also a tool to calculate performance metrics of any PEC cell (single-ju
 Do not hesitate to contact me for any question (ek.skolotneva@gmail.com)
 
 ### Disclaimer 
-This project is licensed under the PolyForm Noncommercial License 1.0.0.
-Noncommercial use is permitted. Commercial use is not allowed.
-
+This project is licensed under the PolyForm Noncommercial License 1.0.0. 
+Noncommercial use is permitted, commercial use is not allowed.
 This software is provided free of charge and "as is", without warranties of any kind.
 
 ### Issue Reports 
